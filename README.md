@@ -9,14 +9,14 @@
 ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═════╝   ╚═╝   
 ```
 
-### `> sudo whoami`
+### `> whoami`
 # Sandakelum Kumarasiri — *NobodydeBunny* 🐇
 
-**Programmer · CyberSec Curious · AI Dev · MAD Dev · Occasional Web Wizard · Anime Enjoyer**
+**AI Dev · Mobile App Dev · CyberSec (sometimes) · Web Dev (rarely) · Anime & Cat Lover**
 
 *"Why work hard when you can work smart?"* 😴⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Autodidact+%26+Allrounder+Developer;Cybersecurity+Enthusiast;AI+%2F+ML+Explorer;MAD+%7C+Mobile+App+Developer;Lazy+Genius+%F0%9F%98%B4%E2%9A%A1;Knowledge+Collector+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;Mobile+App+Developer+(MAD)+%F0%9F%93%B1;Autodidact+%26+Allrounder;CyberSec+curious+%F0%9F%94%90+(occasionally);Lazy+Genius+%F0%9F%98%B4%E2%9A%A1;Knowledge+Collector+%F0%9F%93%9A;Cats+%2B+Anime+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,116 +33,125 @@
 
 ---
 
-## `> cat about_me.txt`
+## 🧠 About Me
 
 ```python
 class NobodydeBunny:
     def __init__(self):
-        self.name       = "Sandakelum Kumarasiri"
-        self.alias      = "NobodydeBunny 🐇"
-        self.status     = "Open to Work 🟢"
-        
-        self.interests  = [
-            "🔐 Cybersecurity & Ethical Hacking",
-            "🤖 AI / ML Development",
-            "📱 Mobile App Dev (MAD)",
-            "🌐 Web Dev (when I feel like it)",
-            "🎌 Anime & Manga",
+        self.name        = "Sandakelum Kumarasiri"
+        self.alias       = "NobodydeBunny 🐇"
+        self.location    = "Sri Lanka 🇱🇰"
+        self.status      = "Open to Work 🟢"
+        self.os          = "Windows 🪟  (and proud of it)"
+
+        self.main_focus  = [
+            "🤖 AI / ML Development  ← PRIMARY",
+            "📱 Mobile App Dev (MAD) ← PRIMARY",
         ]
-        
-        self.traits     = {
-            "curiosity"    : "∞",
-            "lazy_factor"  : "Max (efficiency mode 😴)",
-            "problem_solve": "Smartest path only",
-            "learning"     : "Always. About everything.",
+
+        self.side_quests = [
+            "🔐 Cybersecurity  (when curiosity strikes)",
+            "🌐 Web Dev        (when someone asks nicely)",
+        ]
+
+        self.languages_spoken = ["English 🇬🇧", "Japanese 🇯🇵", "Sinhala 🇱🇰"]
+
+        self.traits      = {
+            "curiosity"    : "∞  — will google anything at 2am",
+            "lazy_factor"  : "Maximum  (aka peak efficiency mode 😴)",
+            "problem_solve": "Smartest + easiest path. Always.",
+            "learning"     : "Constant. About everything. Forever.",
         }
 
+        self.loves       = ["🐱 Cats", "🎌 Anime", "🧠 Random rabbit holes"]
+
     def philosophy(self):
-        return "IF IT IS GOOD FOR ME , IT IS GOOD 🧠⚡"
+        return "If it is good for me, it is good. 🐾"
 ```
 
 ---
 
-## `> ls -la skills/`
+## 🚀 Skills & Tech Stack
 
 <div align="center">
 
-### 🖥️ Languages
+### 🤖 AI / ML — *Primary Domain*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 📱 Mobile (MAD)
+### 📱 Mobile App Dev (MAD) — *Primary Domain*
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### 🔐 CyberSec Toolbox
+### 🔐 CyberSec & 🌐 Web — *Occasional Mode*
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### 🛠️ Other Languages & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PyGame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## `> cat domains.sh`
+## 🌐 Languages I Speak
 
-<table>
+<div align="center">
+
+| 🗣️ Language | 🌍 | 📊 Level |
+|---|---|---|
+| Sinhala | 🇱🇰 | Native |
+| English | 🇬🇧 | Fluent |
+| Japanese | 🇯🇵 | Fluent |
+
+</div>
+
+---
+
+## 🎯 Domain Map
+
+<table align="center">
   <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/🔐-CyberSec-FF0000?style=flat-square" /><br/>
-      <b>Cybersecurity</b><br/>
-      <sub>Poking at systems legally<br/>(mostly 😈)</sub>
+    <td align="center" width="200">
+      <b>🤖 AI Development</b><br/>
+      <img src="https://img.shields.io/badge/Focus-PRIMARY-39FF14?style=flat-square&labelColor=0d1117"/><br/>
+      <sub>Training models, building<br/>smart systems, making<br/>computers think 🧠</sub>
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/🤖-AI_Dev-blueviolet?style=flat-square" /><br/>
-      <b>AI Development</b><br/>
-      <sub>Training models &<br/>making things smart</sub>
+    <td align="center" width="200">
+      <b>📱 Mobile App Dev</b><br/>
+      <img src="https://img.shields.io/badge/Focus-PRIMARY-39FF14?style=flat-square&labelColor=0d1117"/><br/>
+      <sub>Native Android apps<br/>that actually work™<br/>Java + Android Studio</sub>
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/📱-MAD-3DDC84?style=flat-square" /><br/>
-      <b>Mobile App Dev</b><br/>
-      <sub>Android apps that<br/>actually work™</sub>
+    <td align="center" width="200">
+      <b>🔐 CyberSec</b><br/>
+      <img src="https://img.shields.io/badge/Focus-HOBBY-888888?style=flat-square&labelColor=0d1117"/><br/>
+      <sub>Poking at things legally<br/>Curious about everything<br/>(mostly 😈)</sub>
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/🌐-WebDev-F7DF1E?style=flat-square" /><br/>
-      <b>Web Dev</b><br/>
-      <sub>When the mood<br/>strikes ⚡</sub>
+    <td align="center" width="200">
+      <b>🌐 Web Dev</b><br/>
+      <img src="https://img.shields.io/badge/Focus-OCCASIONAL-888888?style=flat-square&labelColor=0d1117"/><br/>
+      <sub>When the stars align<br/>and someone needs<br/>a website ⚡</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## `> git log --oneline --graph` — Featured Projects
-
-| 🚀 Project | 📝 What it does | 🛠️ Stack |
-|-----------|----------------|---------|
-| [📱 Study Break Timer](https://github.com/NobodydeBunny/Study_Break_Timer) | Pomodoro-based native Android app for focus sessions | Java, Android |
-| [🔲 QR Code Creator](https://github.com/NobodydeBunny/qr_code_creator) | Python app + web-hosted QR code generator | Python |
-| [🦕 Rex-Move](https://github.com/NobodydeBunny/Rex-Move) | 2D dodge game — survive the meteor shower | Python, Pygame |
-| [🗂️ Personal Organizer](https://github.com/NobodydeBunny/personal-organizer) | C++ Windows Forms task & data management app | C++, WinForms |
-| [🌱 Plant Growth Monitor](https://github.com/NobodydeBunny/PlantGrowthMonitor) | CV-based plant growth tracking algorithms | Python, OpenCV, Matplotlib |
-
----
-
-## `> top` — GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -165,19 +174,39 @@ class NobodydeBunny:
 
 ---
 
-## `> cat anime_watchlist.md`
-
-> *"Those who cannot acknowledge themselves will eventually fail."* — Itachi Uchiha
-
-🎌 Anime is not a hobby. It's a lifestyle and an **education** in disguise.
-
----
-
-## `> ping nobody_de` — Let's Connect
+## 💬 Living By
 
 <div align="center">
 
-Got a cool project? A wild idea? A CTF team? Or just wanna talk code & anime?
+> *"The past makes you wanna die out of regret, and the future makes you depressed out of anxiety.*
+> *So by elimination, the present is likely the happiest time."*
+>
+> — **Hachiman Hikigaya** · Oregairu 🧠
+
+</div>
+
+---
+
+## 🐱 Cats & Anime — A Non-Negotiable Lifestyle
+
+<div align="center">
+
+*Two things I will always have time for, no matter how "productive" I'm supposed to be.*
+
+<img src="https://media.tenor.com/aRDMBEkSX-EAAAAC/anime-cat-girl.gif" width="260" alt="anime cat girl gif"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.tenor.com/qJ-x2Np2mQIAAAAC/cat-anime.gif" width="260" alt="anime cat gif"/>
+
+</div>
+
+---
+
+## 📡 Let's Connect
+
+<div align="center">
+
+Got a cool AI project? A MAD collab? A CTF you need a lazy genius for?
+Or just wanna talk anime, cats, and Dazai quotes?
 
 [![Discord](https://img.shields.io/badge/Discord-nobody__de-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33)](https://discord.com/users/nobody_de)
 
@@ -194,8 +223,7 @@ Got a cool project? A wild idea? A CTF team? Or just wanna talk code & anime?
 
 ```
 // Thanks for stopping by. Now go build something awesome.
-console.log("Nobody was here. 🐇");
+System.out.println("Nobody was here. 🐇🐱");
 ```
 
 </div>
-<img src="https://github.com/user-attachments/assets/c6adbab3-d305-4f3f-af72-feb4ac8198e2" height="200" width="200" alt="logo">
