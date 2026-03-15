@@ -162,7 +162,7 @@ class NobodydeBunny:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NobodydeBunny&theme=terminal&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=FF6B35&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NobodydeBunny&theme=radical&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=FF6B35&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
