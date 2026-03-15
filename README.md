@@ -42,7 +42,6 @@ class NobodydeBunny:
         self.alias       = "NobodydeBunny 🐇"
         self.location    = "Sri Lanka 🇱🇰"
         self.status      = "Open to Work 🟢"
-        self.os          = "Windows 🪟  (and proud of it)"
 
         self.main_focus  = [
             "🤖 AI / ML Development  ← PRIMARY",
@@ -52,6 +51,7 @@ class NobodydeBunny:
         self.side_quests = [
             "🔐 Cybersecurity  (when curiosity strikes)",
             "🌐 Web Dev        (when someone asks nicely)",
+            "🖼️ Graphic Design (when I need something)"
         ]
 
         self.languages_spoken = ["English 🇬🇧", "Japanese 🇯🇵", "Sinhala 🇱🇰"]
@@ -63,10 +63,10 @@ class NobodydeBunny:
             "learning"     : "Constant. About everything. Forever.",
         }
 
-        self.loves       = ["🐱 Cats", "🎌 Anime", "🧠 Random rabbit holes"]
+        self.loves       = ["🎮 Games","🐱 Cats", "🎌 Anime", "🧠 Random rabbit holes"]
 
     def philosophy(self):
-        return "If it is good for me, it is good. 🐾"
+        return "If it is good for me, it is good. 😸"
 ```
 
 ---
