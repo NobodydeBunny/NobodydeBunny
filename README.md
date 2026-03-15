@@ -193,9 +193,8 @@ class NobodydeBunny:
 
 *Two things I will always have time for, no matter how "productive" I'm supposed to be.*
 
-<img src="https://media.tenor.com/aRDMBEkSX-EAAAAC/anime-cat-girl.gif" width="260" alt="anime cat girl gif"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2oxZ2JtdzhsMmV2dXpmcjg0Mzhra2UxdGI5eW9kbWsyczhnN2VkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Air8crAcuWuVg6eUYl/giphy.gif" width="260" alt="anime girl"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://media.tenor.com/qJ-x2Np2mQIAAAAC/cat-anime.gif" width="260" alt="anime cat gif"/>
 
 </div>
 
@@ -206,11 +205,11 @@ class NobodydeBunny:
 <div align="center">
 
 Got a cool AI project? A MAD collab? A CTF you need a lazy genius for?
-Or just wanna talk anime, cats, and Dazai quotes?
+Or just wanna talk anime, cats?
 
 [![Discord](https://img.shields.io/badge/Discord-nobody__de-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33)](https://discord.com/users/nobody_de)
 
-> *Slide into the DMs. I don't bite. I refactor.* 🐇
+> *Slide into the DMs. I don't bite(probably). I refactor.* 🐇
 
 </div>
 
