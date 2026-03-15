@@ -187,11 +187,11 @@ class NobodydeBunny:
 
 ---
 
-## 🐱 Cats & Anime — A Non-Negotiable Lifestyle
+## 🐱 Games,Cats & Anime — A Non-Negotiable Lifestyle
 
 <div align="center">
 
-*Two things I will always have time for, no matter how "productive" I'm supposed to be.*
+*Three things I will always have time for, no matter how "productive" I'm supposed to be.*
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2oxZ2JtdzhsMmV2dXpmcjg0Mzhra2UxdGI5eW9kbWsyczhnN2VkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Air8crAcuWuVg6eUYl/giphy.gif" width="260" alt="anime girl"/>
 &nbsp;&nbsp;&nbsp;
@@ -205,7 +205,7 @@ class NobodydeBunny:
 <div align="center">
 
 Got a cool AI project? A MAD collab? A CTF you need a lazy genius for?
-Or just wanna talk anime, cats?
+Or just wanna play Game or talk anime, cats?
 
 [![Discord](https://img.shields.io/badge/Discord-nobody__de-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33)](https://discord.com/users/nobody_de)
 
