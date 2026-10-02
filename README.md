@@ -3,11 +3,11 @@
 ### `> whoami`
 # Sandakelum Kumarasiri — *NobodydeBunny* 🐇
 
-**AI Dev · Mobile App Dev · CyberSec (sometimes) · Web Dev (rarely) · Anime & Cat Lover**
+**Cloud / DevOps · AI Infrastructure · Software Development · Anime & Cat Lover**
 
 *"Why work hard when you can work smart?"* 😴⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;Mobile+App+Developer+(MAD)+%F0%9F%93%B1;Autodidact+%26+Allrounder;CyberSec+curious+%F0%9F%94%90+(occasionally);Lazy+Genius+%F0%9F%98%B4%E2%9A%A1;Knowledge+Collector+%F0%9F%93%9A;Cats+%2B+Anime+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Aspiring+Cloud+%2F+DevOps+Engineer+%E2%98%81%EF%B8%8F;Aspiring+Platform+Engineer+%F0%9F%8F%97%EF%B8%8F;Aspiring+AI+Infrastructure+%26+MLOps+%F0%9F%A4%96;Autodidact+%26+Allrounder;Lazy+Genius+%F0%9F%98%B4%E2%9A%A1;Knowledge+Collector+%F0%9F%93%9A;Cats+%2B+Anime+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,38 +26,58 @@
 
 ## 🧠 About Me
 
-```python
-class NobodydeBunny:
-    def __init__(self):
-        self.name        = "Sandakelum Kumarasiri"
-        self.alias       = "NobodydeBunny 🐇"
-        self.location    = "Sri Lanka 🇱🇰"
-        self.status      = "Open to Work 🟢"
+```cpp
+/**
+ * @file     NobodydeBunny.character
+ * @engine   LifeEngine v∞
+ * @author   The Universe  (probably)
+ * @lore     Spawned somewhere in Sri Lanka. Refused to follow
+ *           the main quest. Built his own.
+ */
 
-        self.main_focus  = [
-            "🤖 AI / ML Development  ← PRIMARY",
-            "📱 Mobile App Dev (MAD) ← PRIMARY",
-        ]
+#pragma once
+#include <Cloud/DevOps.h>
+#include <Platform/Engineering.h>
+#include <AI/Infrastructure.h>
+#include <Core/LazyGenius.h>
 
-        self.side_quests = [
-            "🔐 Cybersecurity  (when curiosity strikes)",
-            "🌐 Web Dev        (when someone asks nicely)",
-            "🖼️ Graphic Design (when I need something)"
-        ]
+class NobodydeBunny : public Developer {
 
-        self.languages_spoken = ["English 🇬🇧", "Japanese 🇯🇵", "Sinhala 🇱🇰"]
+public:
 
-        self.traits      = {
-            "curiosity"    : "∞  — will google anything at 2am",
-            "lazy_factor"  : "Maximum  (aka peak efficiency mode 😴)",
-            "problem_solve": "Smartest + easiest path. Always.",
-            "learning"     : "Constant. About everything. Forever.",
-        }
+    /* ── Identity ─────────────────────────────────────────── */
+    const std::string real_name  = "Sandakelum Kumarasiri";
+    const std::string alias      = "NobodydeBunny";
+    const std::string origin     = "Sri Lanka 🇱🇰";
+    const std::string status     = "Open to Work 🟢";
 
-        self.loves       = ["🎮 Games","🐱 Cats", "🎌 Anime", "🧠 Random rabbit holes"]
+    /* ── Spoken Languages ─────────────────────────────────── */
+    Language spoken[3] = {
+        { "Sinhala",  NATIVE  },   // 🇱🇰
+        { "English",  FLUENT  },   // 🇬🇧
+        { "Japanese", FLUENT  },   // 🇯🇵
+    };
 
-    def philosophy(self):
-        return "If it is good for me, it is good. 😸"
+    /* ── Core Traits ──────────────────────────────────────── */
+    float  curiosity       = INFINITY;   // will google anything at 2am
+    float  lazy_factor     = MAX;        // peak efficiency mode 😴
+    bool   brute_force     = false;      // never. smartest path only.
+    bool   always_learning = true;       // constant. about everything.
+
+    /* ── Passive Abilities ────────────────────────────────── */
+    Ability passives[4] = {
+        { "Cat Whisperer",       ALWAYS_ACTIVE  },  // 🐱
+        { "Anime Lore",          ALWAYS_ACTIVE  },  // 🎌
+        { "Rabbit Hole Diver",   TRIGGER_2AM    },  // 🧠
+        { "Shortcut Finder",     PASSIVE_BUFF   },  // ⚡
+    };
+
+    /* ── Lore ─────────────────────────────────────────────── */
+    void philosophy() {
+        // — Osamu Dazai, Bungou Stray Dogs
+        std::cout << "If it is good for me, it is good. 🐾" << std::endl;
+    }
+};
 ```
 
 ---
@@ -66,7 +86,15 @@ class NobodydeBunny:
 
 <div align="center">
 
-### 🤖 AI / ML — *Primary Domain*
+### ☁️ Cloud / DevOps 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🤖 AI / ML 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
@@ -75,26 +103,23 @@ class NobodydeBunny:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 📱 Mobile App Dev (MAD) — *Primary Domain*
+### 🎮 Game Dev — *Creative Outlet*
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![PyGame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### 🔐 CyberSec & 🌐 Web — *Occasional Mode*
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🛠️ Other Tools & Languages
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛠️ Other Languages & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PyGame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 </div>
 
 ---
@@ -118,24 +143,24 @@ class NobodydeBunny:
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <b>🤖 AI Development</b><br/>
-      <img src="https://img.shields.io/badge/Focus-PRIMARY-39FF14?style=flat-square&labelColor=0d1117"/><br/>
-      <sub>Training models, building<br/>smart systems, making<br/>computers think 🧠</sub>
+      <b>☁️ Cloud / DevOps</b><br/>
+      <img src="https://img.shields.io/badge/Focus-CAREER_FOCUS-39FF14?style=flat-square&labelColor=0d1117"/><br/>
+      <sub>Core professional direction.<br/>Infrastructure, automation,<br/>building things that scale.</sub>
     </td>
     <td align="center" width="200">
-      <b>📱 Mobile App Dev</b><br/>
-      <img src="https://img.shields.io/badge/Focus-PRIMARY-39FF14?style=flat-square&labelColor=0d1117"/><br/>
-      <sub>Native Android apps<br/>that actually work™<br/>Java + Android Studio</sub>
+      <b>🏗️ Platform Engineering</b><br/>
+      <img src="https://img.shields.io/badge/Focus-SPECIALIZATION-00BFFF?style=flat-square&labelColor=0d1117"/><br/>
+      <sub>Developer platforms,<br/>internal tooling,<br/>reliability at scale.</sub>
     </td>
     <td align="center" width="200">
-      <b>🔐 CyberSec</b><br/>
-      <img src="https://img.shields.io/badge/Focus-HOBBY-888888?style=flat-square&labelColor=0d1117"/><br/>
-      <sub>Poking at things legally<br/>Curious about everything<br/>(mostly 😈)</sub>
+      <b>🤖 AI / ML</b><br/>
+      <img src="https://img.shields.io/badge/Focus-AI_INFRASTRUCTURE-888888?style=flat-square&labelColor=0d1117"/><br/>
+      <sub>AI/ML engineering,<br/>model pipelines,<br/>MLOps & infra.</sub>
     </td>
     <td align="center" width="200">
-      <b>🌐 Web Dev</b><br/>
-      <img src="https://img.shields.io/badge/Focus-OCCASIONAL-888888?style=flat-square&labelColor=0d1117"/><br/>
-      <sub>When the stars align<br/>and someone needs<br/>a website ⚡</sub>
+      <b>🎮 Game Dev</b><br/>
+      <img src="https://img.shields.io/badge/Focus-CREATIVE-FF6B35?style=flat-square&labelColor=0d1117"/><br/>
+      <sub>Personal & creative outlet.<br/>Making things that are<br/>fun to play. 🕹️</sub>
     </td>
   </tr>
 </table>
@@ -157,10 +182,6 @@ class NobodydeBunny:
 
 </div>
 
-<div align="center">
-
-</div>
-
 ---
 
 ## 💬 Living By
@@ -176,7 +197,7 @@ class NobodydeBunny:
 
 ---
 
-## 🐱 Games,Cats & Anime — A Non-Negotiable Lifestyle
+## 🐱 Games, Cats & Anime — A Non-Negotiable Lifestyle
 
 <div align="center">
 
@@ -193,12 +214,11 @@ class NobodydeBunny:
 
 <div align="center">
 
-Got a cool AI project? A MAD collab? A CTF you need a lazy genius for?
-Or just wanna play Game or talk anime, cats?
+Got a cool Cloud project? An AI idea? Or just wanna play a game, talk anime, or share cat pics?
 
 [![Discord](https://img.shields.io/badge/Discord-nobody__de-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33)](https://discord.com/users/nobody_de)
 
-> *Slide into the DMs. I don't bite(probably). I refactor.* 🐇
+> *Slide into the DMs. I don't bite (probably). I refactor.* 🐇
 
 </div>
 
